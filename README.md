@@ -4,7 +4,7 @@ permalink: '/about/'
 layout: page
 ---
 
-[Impressum](https://hack.arrrg.de/impressum)
+[Impressum](https://hack.arrrg.de/contact)
 
 Hallo, ist bin Quinn Li und Betreiberin der Projekte [Hack The Web](https://hack.arrrg.de/) und [Robot Karol Online](https://karol.arrrg.de/).
 
