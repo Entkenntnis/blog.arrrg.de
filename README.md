@@ -6,6 +6,8 @@ layout: page
 
 [Impressum](https://hack.arrrg.de/contact)
 
+Hallo, ich bin Quinn Li und Betreiberin der Projekte [Hack The Web](https://hack.arrrg.de/) und [Robot Karol Online](https://karol.arrrg.de/):
+
 <div style="display: flex; justify-content: start; gap: 24px;">
   <a href="https://hack.arrrg.de/"><img src="https://blog.arrrg.de/assets/hacktheweb.png" alt="Hacken"></a>
   <a href="https://karol.arrrg.de/"><img src="https://blog.arrrg.de/assets/karol.png" alt="Programmieren"></a>
