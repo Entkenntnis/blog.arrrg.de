@@ -22,7 +22,6 @@ navigation: # accepts {file, title, url, icon, sidebaricon}
 external: # shows a footer with social links - for available icons see fontawesome.com/icons
   - { title: Mail, icon: envelope, url: 'mailto:blog@arrrg.de' }
   - { title: Github, icon: github, url: 'https://github.com/Entkenntnis' }
-  - { title: Subscribe, icon: rss, url: '/feed.xml' }
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
