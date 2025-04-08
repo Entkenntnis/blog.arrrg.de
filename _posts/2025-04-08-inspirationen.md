@@ -9,7 +9,7 @@ layout: post
 >
 > If you feel safe in the area that you’re working in, you’re not working in the right area. Always go a little further into the water than you feel you’re capable of being in. Go a little bit out of your depth and when you don’t feel that your feet are quite touching the bottom, you’re just about in the right place to do something exciting.
 
-Dieses Zitat stammt aus einem Song, der es wiederum von David Bowie übernommen hat. Wenn ich diesen Text lese, dann ressoniert das mit mir an vielen Stellen.
+Dieses Zitat stammt aus einem Song, der es wiederum von David Bowie übernommen hat. Wenn ich diesen Text lese, dann resoniert das mit mir an vielen Stellen.
 
 Wenn ich meine Projekten wie Robot Karol oder Hack The Web arbeite, dann sehe ich das im Kern als eine künstlerische Tätigkeit. Und das Zitat erinnert mich immer wieder daran, was das bedeutet.
 
