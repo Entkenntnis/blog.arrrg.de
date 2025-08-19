@@ -5,7 +5,7 @@ layout: post
 
 Ich bin jetzt mit dem ersten Entwurf des Python-Lernpfads durch. Die Kapitel werden zum Ende hin besser, was heißt, dass jetzt am Ende schon wieder die ersten Überarbeitungen für den Anfang anstehen.
 
-Zwei wesentliche Elemente habe ich im Lernpfad verbaut: Auf der einen Seite hab ich meinen Entwurf für die letzte Meile _nochmal_ umgeschmissen und eine eigene Version eines Chat-IO-Tester gebaut. Das hat gut funktioniert und gibt jetzt viel mehr Unterstütztung - dazu kommt vielleicht noch ein eigener Blog-Post.
+Zwei wesentliche Elemente habe ich im Lernpfad verbaut: Auf der einen Seite hab ich meinen Entwurf für die letzte Meile _nochmal_ umgeschmissen und eine eigene Version eines Chat-IO-Tester gebaut. Das hat gut funktioniert und gibt jetzt viel mehr Unterstützung - dazu kommt vielleicht noch ein eigener Blog-Post.
 
 Auf der anderen Seite habe ich sehr viel Zeit in die Storyline gesteckt und im Laufe dieser Entwicklung viele Kleinigkeiten und Potentiale entdeckt - insbesondere Lerninhalte, die nur in Form einer Geschichte vermittelt werden können.
 
