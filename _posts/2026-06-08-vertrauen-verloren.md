@@ -18,3 +18,5 @@ Die offensichtliche Lösung ist es, persönliche Begegnungen mit Menschen in mei
 Das Internet ist weiterhin für alle Tätigkeiten gut, wo kein hohes Vertrauen notwendig ist: Fun Facts nachschlagen, Ansätze für Lösungen finden zu technischen Problemen, sich ragebaiten lassen, Nachrichten lesen.
 
 Mit meinen Projekten stehe ich da wirklich an einem blöden Punkt. Ich habe die Plattformen unter der Annahme gebaut, dass das Internet ein vertrauenswürdiger Ort ist. Das ist nicht mehr gegeben. Ich wäre nicht mehr authentisch, wenn ich diese Entwicklung nicht auch irgendwie in in meinen Projekten reflektiere. Ich weiß noch nicht, wie genau.
+
+Edit: Ich bin weiter 100% committed, Hack The Web und Robot Karol Online weiter zu betreiben! Das ist keine Frage. Für die Projekte selber sehe ich keine grundsätzliche Probleme, nur hier und da paar Details, die man nachschärfen kann, z.B. auf welche externe Seiten ich verweisen möchte oder auf welche Services ich mich verlasse, oder wie ich KI einsetzen möchte.
